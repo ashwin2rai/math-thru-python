@@ -2,7 +2,7 @@
 
 # Introduction
 
-This notebook serves two purposes
+These set of notebooks serve two purposes
 
 1. Introduces and expands on commonly used mathematical symbols and notations
 2. Shows the symbol in code form using Python
@@ -20,5 +20,5 @@ Python is an appropriate programming language for this endevour since Pythonic s
     - If the symbols are not explained in this notebook, a reference to the appropriate notebook will be provided
     
     
-2. **Github does a poor job of rendering this notebook**. The online render of this notebook is missing links, symbols, and notations are badly formatted. It is advised that you clone a local copy (or download the notebook) and open it locally.
+2. **Github does a poor job of rendering these notebooks**. The online render of these notebooks are missing links, symbols, and notations are badly formatted. It is advised that you clone a local copy (or download the notebook) and open it locally.
 
