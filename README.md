@@ -2,6 +2,8 @@
 
 # Introduction
 
+This repo adds to Mathematical Notation: A Guide for Engineers and Scientists by Professor Edward Scheinerman by including code for notations, to make it easier to understant the concept behing standard mathematical notations. 
+
 These set of notebooks serve two purposes
 
 1. Introduces and expands on commonly used mathematical symbols and notations
@@ -21,6 +23,31 @@ Python is an appropriate programming language for this endevour since Pythonic s
     
     
 2. **Github does a poor job of rendering these notebooks**. The online render of these notebooks are missing links, symbols, and notations are badly formatted. It is advised that you clone a local copy (or download the notebook) and open it locally, or refer to the PDFs.
+
+# Essential list of notations
+
+If you do not have the time to peruse all the content in this repo, below is a cheat sheet of items you should look at to gain basic familiarity with the most widely used notaions in order. It is written in Subtopic - Main Topic - Notebook format. 
+
+1. Membership - Sets - Collections
+2. Real set - Sets - Collections
+3. Integer set - Sets - Collections
+4. Set builder notation - Sets - Collections
+5. Intervals - Subset of the reals - Numbers
+6. Subset - Sets - Collections
+7. Superset - Sets - Collections
+8. Union - Sets - Collections
+9. Interesection - Sets - Collections
+10. Introduction - Lists - Collections
+11. Big sum - Aggregations - Collections
+12. Big product - Aggregations - Collections
+13. For all - Quantifiers - Logic
+14. There exists - Quantifiers - Logic
+15. Combining quantifiers - Quantifiers - Logic
+16. Implies - Proof symbols - Logic
+17. Absolute value - Real Numbers - Numbers
+18. Defined - Real Numbers - Numbers
+19. Identically equal to - Real Numbers - Numbers
+20. Decorations - Subset of the reals - Numbers
 
 
 # References
