@@ -49,6 +49,10 @@ If you do not have the time to peruse all the content in this repo, below is a c
 19. Identically equal to - Real Numbers - Numbers
 20. Higher dimension - Real Numbers - Numbers
 21. Decorations - Subset of the reals - Numbers
+22. Set map - Fundamentals - Functions
+23. Value notation - Fundamentals - Functions
+24. Operator/Transform - Fundamentals - Functions
+25. Piecewise notation - Fundamentals - Functions
 
 
 # References
