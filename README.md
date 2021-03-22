@@ -47,7 +47,8 @@ If you do not have the time to peruse all the content in this repo, below is a c
 17. Absolute value - Real Numbers - Numbers
 18. Defined - Real Numbers - Numbers
 19. Identically equal to - Real Numbers - Numbers
-20. Decorations - Subset of the reals - Numbers
+20. Higher dimension - Real Numbers - Numbers
+21. Decorations - Subset of the reals - Numbers
 
 
 # References
