@@ -37,22 +37,23 @@ If you do not have the time to peruse all the content in this repo, below is a c
 7. Superset - Sets - Collections
 8. Union - Sets - Collections
 9. Interesection - Sets - Collections
-10. Introduction - Lists - Collections
-11. Big sum - Aggregations - Collections
-12. Big product - Aggregations - Collections
-13. For all - Quantifiers - Logic
-14. There exists - Quantifiers - Logic
-15. Combining quantifiers - Quantifiers - Logic
-16. Implies - Proof symbols - Logic
-17. Absolute value - Real Numbers - Numbers
-18. Defined - Real Numbers - Numbers
-19. Identically equal to - Real Numbers - Numbers
-20. Higher dimension - Real Numbers - Numbers
-21. Decorations - Subset of the reals - Numbers
-22. Set map - Fundamentals - Functions
-23. Value notation - Fundamentals - Functions
-24. Operator/Transform - Fundamentals - Functions
-25. Piecewise notation - Fundamentals - Functions
+10. Infimum, Supremum - Sets - Collections
+11. Introduction - Lists - Collections
+12. Big sum - Aggregations - Collections
+13. Big product - Aggregations - Collections
+14. For all - Quantifiers - Logic
+15. There exists - Quantifiers - Logic
+16. Combining quantifiers - Quantifiers - Logic
+17. Implies - Proof symbols - Logic
+18. Absolute value - Real Numbers - Numbers
+19. Defined - Real Numbers - Numbers
+20. Identically equal to - Real Numbers - Numbers
+21. Higher dimension - Real Numbers - Numbers
+22. Decorations - Subset of the reals - Numbers
+23. Set map - Fundamentals - Functions
+24. Value notation - Fundamentals - Functions
+25. Operator/Transform - Fundamentals - Functions
+26. Piecewise notation - Fundamentals - Functions
 
 
 # References
