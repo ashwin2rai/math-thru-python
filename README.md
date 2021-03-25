@@ -28,6 +28,8 @@ Python is an appropriate programming language for this endevour since Pythonic s
 
 If you do not have the time to peruse all the content in this repo, below is a cheat sheet of items you should look at to gain basic familiarity with the most widely used notaions in order. It is written in Subtopic - Main Topic - Notebook format. 
 
+Collections/Numbers
+
 1. Membership - Sets - Collections
 2. Real set - Sets - Collections
 3. Integer set - Sets - Collections
@@ -42,19 +44,30 @@ If you do not have the time to peruse all the content in this repo, below is a c
 12. Introduction - Lists - Collections
 13. Big sum - Aggregations - Collections
 14. Big product - Aggregations - Collections
-15. For all - Quantifiers - Logic
-16. There exists - Quantifiers - Logic
-17. Combining quantifiers - Quantifiers - Logic
-18. Implies - Proof symbols - Logic
-19. Absolute value - Real Numbers - Numbers
-20. Defined - Real Numbers - Numbers
-21. Identically equal to - Real Numbers - Numbers
-22. Higher dimension - Real Numbers - Numbers
-23. Decorations - Subset of the reals - Numbers
-24. Set map - Fundamentals - Functions
-25. Value notation - Fundamentals - Functions
-26. Operator/Transform - Fundamentals - Functions
-27. Piecewise notation - Fundamentals - Functions
+
+Logic
+
+1. For all - Quantifiers - Logics
+2. There exists - Quantifiers - Logic
+3. Combining quantifiers - Quantifiers - Logic
+4. Implies - Proof symbols - Logic
+
+Numbers
+
+1. Absolute value - Real Numbers - Numbers
+2. Defined - Real Numbers - Numbers
+3. Identically equal to - Real Numbers - Numbers
+4. Higher dimension - Real Numbers - Numbers
+5. Decorations - Subset of the reals - Numbers
+
+Functions
+
+1. Set map - Fundamentals - Functions
+2. Value notation - Fundamentals - Functions
+3. Dot notation - Fundamentals - Functions
+4. Operator/Transform - Fundamentals - Functions
+5. Piecewise notation - Fundamentals - Functions
+6. Function exponentiation - Fundamentals - Functions
 
 
 # References
