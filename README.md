@@ -65,9 +65,10 @@ Functions
 1. Set map - Fundamentals - Functions
 2. Value notation - Fundamentals - Functions
 3. Dot notation - Fundamentals - Functions
-4. Operator/Transform - Fundamentals - Functions
-5. Piecewise notation - Fundamentals - Functions
-6. Function exponentiation - Fundamentals - Functions
+4. Arg min max - Fundamentals - Functions
+5. Operator/Transform - Fundamentals - Functions
+6. Piecewise notation - Fundamentals - Functions
+7. Function exponentiation - Fundamentals - Functions
 
 
 # References
