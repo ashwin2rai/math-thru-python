@@ -26,7 +26,7 @@ Python is an appropriate programming language for this endevour since Pythonic s
 
 # Essential list of notations
 
-If you do not have the time to peruse all the content in this repo, below is a cheat sheet of items you should look at to gain basic familiarity with the most widely used notaions in order. It is written in Subtopic - Main Topic - Notebook format. 
+If you do not have time to peruse all the content in this repository, below is a cheat sheet of items worth reading first to gain basic familiarity with the most widely used notations, in order. It is written in Subtopic - Main Topic - Notebook format.
 
 Collections/Numbers
 
@@ -34,41 +34,87 @@ Collections/Numbers
 2. Real set - Sets - Collections
 3. Integer set - Sets - Collections
 4. Set builder notation - Sets - Collections
-5. Intervals - Subset of the reals - Numbers
+5. Intervals - Subset of the Reals - Numbers
 6. Subset - Sets - Collections
 7. Superset - Sets - Collections
 8. Union - Sets - Collections
-9. Interesection - Sets - Collections
-10. Cartesian Product - Sets - Collections
+9. Intersection - Sets - Collections
+10. Cartesian product - Sets - Collections
 11. Infimum, Supremum - Sets - Collections
-12. Introduction - Lists - Collections
-13. Big sum - Aggregations - Collections
-14. Big product - Aggregations - Collections
+12. Introduction - Lists or n-tuples - Collections
+13. Big Sum - Aggregation symbols - Collections
+14. Big Product - Aggregation symbols - Collections
 
 Logic
 
-1. For all - Quantifiers - Logics
+1. For all - Quantifiers - Logic
 2. There exists - Quantifiers - Logic
 3. Combining quantifiers - Quantifiers - Logic
-4. Implies - Proof symbols - Logic
+4. Implies - Proof Symbols - Logic
+5. If and only if - Proof Symbols - Logic
 
 Numbers
 
-1. Absolute value - Real Numbers - Numbers
-2. Defined - Real Numbers - Numbers
-3. Identically equal to - Real Numbers - Numbers
-4. Higher dimension - Real Numbers - Numbers
-5. Decorations - Subset of the reals - Numbers
+1. Absolute value - Real numbers - Numbers
+2. Defined - Real numbers - Numbers
+3. Identically equal to - Real numbers - Numbers
+4. Higher dimensional spaces - Subset of the Reals - Numbers
+5. Decorations - Subset of the Reals - Numbers
+6. Complex set - Complex numbers - Numbers
 
 Functions
 
-1. Set map - Fundamentals - Functions
-2. Value notation - Fundamentals - Functions
-3. Dot notation - Fundamentals - Functions
-4. Arg min max - Fundamentals - Functions
-5. Operator/Transform - Fundamentals - Functions
-6. Piecewise notation - Fundamentals - Functions
-7. Function exponentiation - Fundamentals - Functions
+1. Set Map - Fundamentals - Functions
+2. Value Notation - Fundamentals - Functions
+3. Dot Notation - Fundamentals - Functions
+4. Piecewise Notation - Fundamentals - Functions
+5. Composition of Functions - Fundamentals - Functions
+6. Operator / Transform - Fundamentals - Functions
+7. Function Exponentiation - Fundamentals - Functions
+8. Arg Min and Arg Max - Miscellany - Functions
+
+Linear Algebra
+
+1. Magnitude or Norm of a vector - Vectors - Linear_algebra
+2. Dot (inner) product - Vectors - Linear_algebra
+3. Orthogonality - Vectors - Linear_algebra
+4. Matrix multiplication - Matrices - Linear_algebra
+5. Transpose - Matrices - Linear_algebra
+6. Determinant - Matrices - Linear_algebra
+7. Eigenvalues - Matrices - Linear_algebra
+
+Geometry
+
+1. Angles - Fundamentals - Geometry
+2. Parallel - Fundamentals - Geometry
+3. Perpendicular - Fundamentals - Geometry
+4. Cartesian coordinates - Coordinates - Geometry
+5. Polar coordinates - Coordinates - Geometry
+
+Calculus
+
+1. Limit of a Function - Limits - Calculus
+2. Derivative Notation - Derivatives (Single Variable) - Calculus
+3. Partial Derivatives - Partial Derivatives (Scalar-Valued) - Calculus
+4. Gradient - Partial Derivatives (Scalar-Valued) - Calculus
+5. Definite Integral - Integration - Calculus
+6. Jacobian - Derivatives (Vector-Valued) - Calculus
+
+Probability and Statistics
+
+1. Expected Value - Probability - Probability_Stats
+2. Variance - Probability - Probability_Stats
+3. Standard Deviation - Probability - Probability_Stats
+4. Probability Mass Function (PMF) - Distributions - Probability_Stats
+5. Cumulative Distribution Function (CDF) - Distributions - Probability_Stats
+6. Probability Density Function (PDF) - Distributions - Probability_Stats
+7. Estimator - Statistics - Probability_Stats
+
+Approximations
+
+1. Approximate Equality - Approximate Equality of Numbers - Approximations
+2. Asymptotic To - Asymptotic Relations - Approximations
+3. Big O - Big-Oh Notation and Its Relatives - Approximations
 
 
 # References
@@ -80,4 +126,3 @@ Functions
 4. https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
 5. http://www-cs-students.stanford.edu/~csilvers/proof/node1.html#intro
 6. https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/Book%3A_Book_of_Proof_(Hammack)/07%3A_Proving_Non-Conditional_Statements/7.01%3A_If-and-Only-If_Proof
-
